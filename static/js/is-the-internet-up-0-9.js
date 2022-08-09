@@ -1,0 +1,1 @@
+_ablyjs_jsonp._isTheInternetUp({"response":true,"statusCode": 200});
